@@ -1,2 +1,5 @@
 # Very-Deep-Convolutional-Networks-For-Large-Scale-Image-Recognition
-Implementation of https://arxiv.org/pdf/1409.1556.pdf
+
+<h4>Architecture</h4>
+
+![alt text](/vgg.png "VGG")
